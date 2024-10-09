@@ -2,7 +2,7 @@
 
 Interactive scroll progress bar that visually indicates the user's scroll position on the page.
 
-## Live Demo
+## **Live Demo
 
 [View Live Demo](https://shahenda-elshayal.github.io/scroll-progress-bar/)
 
